@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Data Structures and Algorithms.**
 
-- 💬 Ask me about **C++, JavaScript.**
+- 💬 Ask me about **Java, JavaScript.**
 
 - 📫 How to reach me **kaushikyadure4977@gmail.com**
 
