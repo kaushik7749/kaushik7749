@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kyadure" target="blank"><img src="https://img.shields.io/twitter/follow/kyadure?logo=twitter&style=for-the-badge" alt="kyadure" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack and Data Structures and Algorithms.**
+- 🌱 I’m currently learning **ReactJS and Data Structures and Algorithms.**
 
 - 💬 Ask me about **Java, JavaScript.**
 
