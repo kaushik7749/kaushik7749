@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 💬 Ask me about **Java, JavaScript.**
+- 💬 Ask me about **Java.**
 
 - 📫 How to reach me **kaushikyadure4977@gmail.com**
 
