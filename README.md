@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kaushik!</h1>
-<h3 align="center">An undergrad student, I love solving DSA and passionate about full stack web development.</h3>
+<h3 align="center">My experience includes web-based, in front-end development with the latest web technologies. I am currently building an web application using ReactJS and TypeScript and also built my personal projects utilizing JavaScript and ReactJS technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushik7749&label=Profile%20views&color=0e75b6&style=flat" alt="kaushik7749" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kyadure" target="blank"><img src="https://img.shields.io/twitter/follow/kyadure?logo=twitter&style=for-the-badge" alt="kyadure" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
 - 💬 Ask me about **JavaScript.**
 
-- 📫 How to reach me **kaushikyadure4977@gmail.com**
+- 📫 How to reach me **kaushikyadure@gmail.com**
 
 - ⚡ Fun fact **I like reading books.**
 
