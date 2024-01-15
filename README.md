@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **JavaScript.**
 
+- 🌱 Currently I am learning **Next.js.**
+
 - 📫 How to reach me **kaushikyadure@gmail.com**
 
 - ⚡ Fun fact **I like reading books.**
