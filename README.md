@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/kyadure" target="blank"><img src="https://img.shields.io/twitter/follow/kyadure?logo=twitter&style=for-the-badge" alt="kyadure" /></a> </p>
 
-- 💬 Ask me about **JavaScript.**
 
 - 🌱 Currently I am learning **Next.js.**
 
